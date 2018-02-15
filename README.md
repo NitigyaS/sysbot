@@ -1,4 +1,5 @@
 ##Sysbot
+
 #### Slack Client to notify team member of the activity we do on servers
 
  
@@ -6,7 +7,14 @@
   Write you message in single quotes and press enter. It wil push it to a slack channel. 
 
 The client make use of [Sack Incoming Webhooks](https://api.slack.com/incoming-webhooks).
- ####Install and Setup
+
+### Usage
+
+    1. Notify of small manual bug fixes
+    2. Cron status if it runs or not. 
+    3. Ansible deployes.   
+
+####Install and Setup
  
  
  
